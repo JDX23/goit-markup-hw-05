@@ -149,6 +149,11 @@ header{
     margin-right: 50px;
 }
 
+.header-contact-svg-icons {
+    margin-right: 10px;
+    fill: currentColor;
+}
+
 .contact-link {
     font-weight: 500;
     font-size: 14px;
